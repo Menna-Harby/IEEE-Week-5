@@ -1,4 +1,4 @@
-
+I recently came across some materials that could be beneficial for the team, and I wanted to share them.
  ## egFWD
 https://drive.google.com/drive/folders/1dfWZdEl2GdaCZ7xlDE3Tmj_5uUiMa8me
 
